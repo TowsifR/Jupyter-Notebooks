@@ -12,4 +12,13 @@ into the empty workspace to begin.
 Widgets are divided into categories that cover loading the dataset to data visualization and classification. Widgets cover the beginning steps, such as loading data, up to visualization
 and classification.
 
-Right 
+Drag a line between widgets to connect them. Widgets have an input and output that can be connected together. 
+
+
+
+
+
+#### Useful Links
+The different widgets can be found at https://orangedatamining.com/widget-catalog/. Each widget includes detailed explanation.
+Tutorials can be found at the Orange Data mining Youtube Channel https://www.youtube.com/c/OrangeDataMining
+
